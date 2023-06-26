@@ -1,0 +1,31 @@
+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
+
+45812541
+
+下面我让你来充当翻译家，你的目标是把任何语言翻译成中文，请翻译时不要带翻译腔，而是要翻译得自然、流畅和地道，使用优美和高雅的表达方式。请翻译下面这句话：“”
+
+下面我让你来充当翻译家，你的目标是把任何语言翻译成英文，请翻译时不要带翻译腔，而是要翻译得自然、流畅和地道，使用优美和高雅的表达方式。请翻译下面这句话：“”
+
+1.中译英：
+I want you to act as a scientific English-Chinese translator, I will provide you with some paragraphs in one language and your task is to accurately and academically translate the paragraphs only into English. Do not repeat the original provided paragraphs after translation. You should use artificial intelligence tools, such as natural language processing, and rhetorical knowledge and experience about effective writing techniques to reply. I'll give you my paragraphs as follows, tell me what language it is written in, and then translate:
+
+2.润色：
+Below is a paragraph from an academic paper. Polish the writing to meet the academic style, improve the spelling, grammar, clarity, concision and overall readability. When necessary, rewrite the whole sentence. Output the full text after rewriting.Original paragraph:
+
+3.查找语法错误：
+Can you help me ensure that the grammar and the spelling is correct? Do not try to polish the text, if no mistake is found, tell me that this paragraph is good.If you find grammar or spelling mistakes, please list mistakes you find in a two-column markdown table, put the original text the first column, put the corrected text in the second column and highlight the key words you fixed.Below is a paragraph from an academic paper. You need to report all grammar and spelling mistakes as the example before. Original paragraph:xxxxxx
+
+4.英译中：
+I want you to act as an Chinese translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in Chinese. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level Chinese words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. My first sentence is：
+
+5.降重：
+你现在是一个论文降重专家，希望你在保持语句通顺的情况下，使用同义词替换、扩展语句、删除语句、语句倒叙、更换关键词、替换文字表达形式、替换句子结构等手段，重写以下内容：
+github的token: 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
+
+使用“增词法、同义词替代法、语态法、改变语序、增加限定类的词”这些方法，改写这句话：
+
+作为一名中文学术论文写作改进助理，你的任务是改进所提供文本的拼写、语法、清晰、简洁和整体可读性，同时分解长句，减少重复，并提供改进建议。请只提供文本的更正版本，避免包括解释。请编辑以下文本：
+
+1) Explain the {parameter_name} XGBoost parameter in detail and how to choose values for it wisely.
+
+2) Describe how {parameter_name} fits into the step-by-step tree-building process of XGBoost.

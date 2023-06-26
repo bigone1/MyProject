@@ -1,4 +1,6 @@
 进入测试节点：ssh g101
 进入镜像：startdocker -u "-it" -c /bin/bash bit:5000/zhoulin_torch171
 在镜像里安装库，进入镜像后：export HOME=/ghome/zhoulin  pip install package
-进入未关闭的镜像：sudo docker exec -it "容器ID" /bin/bash
+进入未关闭的镜像：sudo docker exec -it zhoulin /bin/bash
+查看使用的哪张显卡：echo $CUDA_VISIBLE_DEVICES
+更换使用哪张显卡：export CUDA_VISIBLE_DEVICES="0"
